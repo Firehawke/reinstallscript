@@ -1,0 +1,1 @@
+@wsl --export Ubuntu "P:\WSL Backup\Ubuntu.vhdx" --vhd
